@@ -1,2 +1,3 @@
 # BabyLearnGitHub
-For little baby
+## For little baby
+How to use GitHub?
